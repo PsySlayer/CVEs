@@ -27,3 +27,4 @@ All users, package maintainers, and software developers whose projects incorpora
 Seongil Wi confirmed to BleepingComputer that the two bugs discovered by Lee are not related to the one he found.
 
 Unfortunately, supply chain complexities affecting most open-source software projects might delay the upgrade of VM2 across the impacted tools. Coupled with the public availability of a PoC, many users may be left exposed to risks for an extended duration.
+![image](https://github.com/PsySlayer/CVEs/assets/97471496/839d5dab-9bc4-4daa-ba9b-f13db4dc65bc)
